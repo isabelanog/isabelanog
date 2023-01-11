@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**isabelanog/isabelanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-Here are some ideas to get you started:
+<h3> &nbsp;Hi! I'm Isabela Nogueira 😃 </h3>
 
-- 🔭 I’m currently working on @liferay
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  &nbsp; Currently I work at **Software Engineering** in <a href="https://www.liferay.com/pt/home">Liferay</a>
+
+<h3> &nbsp;Programming Skills </h3>
+
+  -  &nbsp; Java 8/11
+  -  &nbsp; JavaScript 
+  -  &nbsp; CSS 
+  -  &nbsp; MySQL 
+
+**Tools**
+
+  -  &nbsp; Postman 
+  -  &nbsp; Git 
+  -  &nbsp; GitHub 
+  -  &nbsp; IntelliJ IDEA 
+  -  &nbsp; Visual Studio Code 
+ 
+  
+<br/>
+
+<a href="https://github.com/isabelanog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelanog&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;You can find me at: </h3> 
+
+[![Linkedin: Isabela Nogueira](https://img.shields.io/badge/-IsabelaNogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-nogueira-4b9353186/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/isabela-nogueira-4b9353186/))
+[![Gmail Badge](https://img.shields.io/badge/-isabelammn@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelammn@gmail.com)](mailto:isabelammn@gmail.com)
+
