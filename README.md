@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> &nbsp;Hi! I'm Isabela Nogueira 😃 </h3>
 
 -  &nbsp; Currently I work at **Software Engineering** in <a href="https://www.liferay.com/pt/home">Liferay</a>
