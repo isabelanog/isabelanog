@@ -21,12 +21,6 @@
   
 <br/>
 
-<a href="https://github.com/isabelanog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelanog&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;You can find me at: </h3> 
 
 [![Linkedin: Isabela Nogueira](https://img.shields.io/badge/-IsabelaNogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-nogueira-4b9353186/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/isabela-nogueira-4b9353186/))
