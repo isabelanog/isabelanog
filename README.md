@@ -6,7 +6,7 @@
 <h3> &nbsp;Programming Skills </h3>
 
   -  &nbsp; Java 
-  -  &nbsp; Spring
+  -  &nbsp; Spring Boot
   -  &nbsp; Docker 
   -  &nbsp; SQL 
   -  &nbsp; Groovy 
