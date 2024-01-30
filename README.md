@@ -5,11 +5,11 @@
 
 <h3> &nbsp;Programming Skills </h3>
 
-  -  &nbsp; Java 8/11
+  -  &nbsp; Java 
   -  &nbsp; Spring
-  -  &nbsp; JavaScript 
-  -  &nbsp; CSS 
-  -  &nbsp; MySQL 
+  -  &nbsp; Docker 
+  -  &nbsp; SQL 
+  -  &nbsp; Groovy 
 
 **Tools**
 
