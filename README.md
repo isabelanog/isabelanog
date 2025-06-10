@@ -1,8 +1,6 @@
 
 <h3> &nbsp;Hi! I'm Isabela Nogueira 😃 </h3>
 
--  &nbsp; Currently I work at **Software Engineering** in <a href="https://www.liferay.com/pt/home">Liferay</a>
-
 <h3> &nbsp;Programming Skills </h3>
 
   -  &nbsp; Java 
